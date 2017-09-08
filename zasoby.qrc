@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/dzwiek">
+        <file>gunshot.mp3</file>
+        <file>background.mp3</file>
+        <file>laser.mp3</file>
+    </qresource>
+    <qresource prefix="/tekstury">
+        <file>bg.jpg</file>
+        <file>wrog.png</file>
+        <file>gracz.png</file>
+        <file>gun.png</file>
+        <file>boss.png</file>
+        <file>laser.png</file>
+    </qresource>
+</RCC>
